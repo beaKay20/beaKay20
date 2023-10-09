@@ -1,4 +1,4 @@
-# Olá! Eu sou a Beatriz Kailane 2
+# Olá! Eu sou a Beatriz Kailane 
 
 👩‍💻-Estudando HTML, CSS, JavaScript e React
 
