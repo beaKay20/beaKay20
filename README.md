@@ -1,6 +1,6 @@
 # Olá! Eu sou a Beatriz Kailane 
 
-👩‍💻-Estudando HTML, CSS, JavaScript e React
+👩‍💻-Estudando HTML, CSS, JavaScript, Java, Mysql e React
 
 😊-Pronouns: ela/dela
    
